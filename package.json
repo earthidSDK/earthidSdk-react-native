@@ -1,0 +1,59 @@
+{
+  "name": "@veriff/react-native-sdk",
+  "title": "React Native Veriff SDK",
+  "version": "2.13.0",
+  "description": "React Native SDK for Veriff identity verification",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "homepage": "https://developers.veriff.com/#react-native-sdk-integration",
+  "keywords": [
+    "react-native",
+    "veriff",
+    "sdk",
+    "online",
+    "identity",
+    "verification"
+  ],
+  "author": {
+    "name": "Veriff",
+    "email": "support@veriff.com",
+    "url": "https://www.veriff.com/"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "18.1.0",
+    "react-native": "0.68.1",
+    "@react-native-community/eslint-config": "^3.0.1",
+    "eslint": "^7.0.0"
+  },
+  "resolutions": {
+    "ansi-regex": "^5.0.1",
+    "minimist": "^0.2.1",
+    "lodash": "^4.17.21",
+    "ua-parser-js": "^0.7.24",
+    "path-parse": "^1.0.7",
+    "tmpl": "^1.0.5",
+    "node-fetch": "^2.6.7",
+    "plist": "^3.0.4",
+    "ajv": "^6.12.3"
+  },
+  "resolutionComments": {
+    "ansi-regex": "Resolving to 5.0.1 to fix vulnerability (https://github.com/advisories/GHSA-93q8-gq69-wqmw)",
+    "minimist": "Resolving to 0.2.1 to fix vulnerability (https://www.npmjs.com/advisories/1066649)",
+    "lodash": "Resolving to 4.17.21 to fix vulnerability (https://www.npmjs.com/advisories/1065397)",
+    "ua-parser-js": "Resolving to 0.7.24 to fix vulnerability (https://www.npmjs.com/advisories/1065393)",
+    "path-parse": "Resolving to 1.0.7 to fix vulnerability (https://www.npmjs.com/advisories/1064972)",
+    "tmpl": "Resolving to 1.0.5 to fix vulnerability (https://www.npmjs.com/advisories/1064907)",
+    "node-fetch": "Resolving to 2.6.7 to fix vulnerability (https://www.npmjs.com/advisories/1064646)",
+    "plist": "Resolving to 3.0.4 to fix vulnerability (https://www.npmjs.com/advisories/1064605)",
+    "ajv": "Resolving to 6.12.3 to fix vulnerability (https://www.npmjs.com/advisories/1065159)"
+  }
+}
