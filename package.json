@@ -1,5 +1,5 @@
 {
-  "name": "@veriff/react-native-sdk",
+  "name": "@earthid/react-native-sdk",
   "title": "React Native Veriff SDK",
   "version": "2.13.0",
   "description": "React Native SDK for Veriff identity verification",
@@ -7,7 +7,7 @@
   "scripts": {
     "lint": "eslint ."
   },
-  "homepage": "https://developers.veriff.com/#react-native-sdk-integration",
+  "homepage": "https://docs.google.com/document/d/13EvUxfG-XFvCjx_NvqQgULbgWuiALzGWccKxes2splw/edit#heading=h.7jlx6s92jy4u",
   "keywords": [
     "react-native",
     "veriff",
